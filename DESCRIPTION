@@ -1,0 +1,12 @@
+Package: Lab3
+Type: Package
+Title: Package for Lab 3 in R
+Version: 0.1.0
+Authors@R: c(person("Aset", "Zhumatai", email = "asezh116@student.liu.se", role = c("aut", "cre")), person("Pranjal Saha", "Arnab", email = "praar849@student.liu.se", role = "aut"))
+Description: This package contains two functions: euclidean and dijkstra. Package was created as a part of Laboratory work in Programmin in R course.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+Depends: 
+    R (>= 3.5)
