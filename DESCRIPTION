@@ -12,3 +12,6 @@ Depends:
     R (>= 3.5)
 URL: https://github.com/asetzhumatai/Lab3
 BugReports: https://github.com/asetzhumatai/Lab3/issues
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
